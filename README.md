@@ -1,0 +1,2 @@
+# ReportePractica1FP22AddiKetzalzinSalasMexicano
+Practica 1 fundamentos de programacion 
